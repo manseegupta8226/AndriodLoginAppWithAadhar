@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="D:/kushal/Required JAR Files/Required JAR Files/org.bouncycastle-145.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/kushal/Required JAR Files/Required JAR Files/spongycastle/sc-light-jdk15on-1.47.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/kushal/Required JAR Files/Required JAR Files/spongycastle/scpkix-jdk15on-1.47.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/kushal/Required JAR Files/Required JAR Files/spongycastle/scprov-jdk15on-1.47.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/kushal/Required JAR Files/Required JAR Files/jersey-client-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/kushal/Required JAR Files/Required JAR Files/jersey-core-1.2.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="E:/Vinayak/Registered Device/bioenableandriodwrapper.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
